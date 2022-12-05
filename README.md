@@ -1,1 +1,1 @@
-# kernel-interface
+# kernel-interface to read interface memory and type of processor 
